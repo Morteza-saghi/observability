@@ -19,3 +19,13 @@
 - **Dashboards**: 
   - 13659
   - 7587
+
+#### Nginx-prometheus-exporter
+- **Metrics**:
+  - Nginx metrics
+
+- **Dashboards**:
+  - 12708
+  - 12767
+  - 10393
+
